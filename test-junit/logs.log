@@ -1,0 +1,52 @@
+2020-07-06 21:29:41,733 INFO SampleTest [main] THis is info
+2020-07-06 21:30:23,841 INFO SampleTest [main] THis is info
+2020-07-06 21:30:23,842 FATAL SampleTest [main] This is fatal
+2020-07-06 21:30:23,842 ERROR SampleTest [main] This is error
+2020-07-06 21:30:41,445 INFO SampleTest [main] THis is info
+2020-07-06 21:30:41,446 FATAL SampleTest [main] This is fatal
+2020-07-06 21:30:41,446 ERROR SampleTest [main] This is error
+2020-07-06 21:31:15,497 INFO SampleTest [main] THis is info
+2020-07-06 21:31:15,498 FATAL SampleTest [main] This is fatal
+2020-07-06 21:31:15,498 ERROR SampleTest [main] This is error
+2020-07-06 21:31:23,089 INFO SampleTest [main] THis is info
+2020-07-06 21:31:23,090 FATAL SampleTest [main] This is fatal
+2020-07-06 21:31:23,090 ERROR SampleTest [main] This is error
+2020-07-06 21:32:29,371 INFO SampleTest [main] THis is info
+2020-07-06 21:32:29,372 FATAL SampleTest [main] This is fatal
+2020-07-06 21:32:29,372 ERROR SampleTest [main] This is error
+2020-07-06 21:32:29,372 WARN SampleTest [main] This is warn
+2020-07-06 21:33:53,639 INFO SampleTest [main] THis is info
+2020-07-06 21:33:53,640 FATAL SampleTest [main] This is fatal
+2020-07-06 21:33:53,640 ERROR SampleTest [main] This is error
+2020-07-06 21:33:53,640 DEBUG SampleTest [main] This is debug
+2020-07-06 21:33:53,640 WARN SampleTest [main] This is warn
+2020-07-06 21:36:19,307 INFO SampleTest [main] THis is info
+2020-07-06 21:36:19,307 FATAL SampleTest [main] This is fatal
+2020-07-06 21:36:19,307 ERROR SampleTest [main] This is error
+2020-07-06 21:36:19,308 DEBUG SampleTest [main] This is debug
+2020-07-06 21:36:19,308 WARN SampleTest [main] This is warn
+2020-07-06 21:36:19,308 TRACE SampleTest [main] This is trace
+2020-07-06 21:49:06,396 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:49:06,398 INFO SampleTest [main] THis is info
+2020-07-06 21:49:06,398 FATAL SampleTest [main] This is fatal
+2020-07-06 21:49:06,398 ERROR SampleTest [main] This is error
+2020-07-06 21:49:06,398 DEBUG SampleTest [main] This is debug
+2020-07-06 21:49:06,398 WARN SampleTest [main] This is warn
+2020-07-06 21:49:06,398 TRACE SampleTest [main] This is trace
+2020-07-06 21:50:12,452 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:50:14,588 INFO SampleTest [main] Открыта страница отус
+2020-07-06 21:50:15,606 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:51:23,692 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:51:25,541 INFO SampleTest [main] Открыта страница отус
+2020-07-06 21:51:26,543 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:52:45,454 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:52:47,926 INFO SampleTest [main] Открыта страница отус
+2020-07-06 21:52:53,905 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:53:45,822 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:53:47,632 INFO SampleTest [main] Открыта страница отус
+2020-07-06 21:53:48,687 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:54:35,379 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:54:37,252 INFO SampleTest [main] Открыта страница отус
+2020-07-06 21:54:38,328 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:56:09,931 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:56:11,959 INFO SampleTest [main] Открыта страница отус
