@@ -11,5 +11,8 @@
         <module name="model" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="owner" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
